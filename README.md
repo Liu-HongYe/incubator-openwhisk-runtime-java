@@ -51,7 +51,7 @@ In order to compile, test and archive Java files, you must have a [JDK 8](http:/
 
 Then, compile `Hello.java` into a JAR file `hello.jar` as follows:
 ```
-javac Hello.java
+javac Hello.java 这里就可以修改文件了，也可以复制大片的文字过来。。
 ```
 ```
 jar cvf hello.jar Hello.class
